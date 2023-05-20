@@ -1,2 +1,2 @@
-# react-text-mixer
+# React Text Mixer
 test app
