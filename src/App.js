@@ -1,7 +1,9 @@
+import Mixer from "./Mixer";
+
 function App() {
   return (
     <>
-      hello
+      <Mixer />
     </>
   )
 }
